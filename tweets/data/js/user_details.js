@@ -1,11 +1,9 @@
 var user_details =  {
-  "expanded_url" : "http://thekirtan.com",
+  "expanded_url" : "http://kirtan.me",
   "screen_name" : "kirtan",
-  "location" : "New York, NY",
-  "url" : "http://t.co/BI2DTYBT",
+  "url" : "http://t.co/sXEK4rCSgR",
   "full_name" : "Kirtan Patel",
-  "bio" : "Internet Explorer",
   "id" : "14577999",
   "created_at" : "Tue Apr 29 00:35:38 +0000 2008",
-  "display_url" : "thekirtan.com"
+  "display_url" : "kirtan.me"
 }

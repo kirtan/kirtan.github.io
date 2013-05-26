@@ -1,5 +1,232 @@
 Grailbird.data.tweets_2013_02 = 
-[ {
+ [ {
+  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "307245728282066944",
+  "text" : "Andrew Mason is a great copywriter, maybe he should work at Groupon.",
+  "id" : 307245728282066944,
+  "created_at" : "Thu Feb 28 21:47:44 +0000 2013",
+  "user" : {
+    "name" : "Kirtan Patel",
+    "screen_name" : "kirtan",
+    "protected" : false,
+    "id_str" : "14577999",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
+    "id" : 14577999,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 28, 50 ],
+      "url" : "http://t.co/VoMEYwxQ7S",
+      "expanded_url" : "http://en.wikipedia.org/wiki/List_of_cognitive_biases",
+      "display_url" : "en.wikipedia.org/wiki/List_of_c\u2026"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "307014755091099648",
+  "text" : "Everything ever, explained. http://t.co/VoMEYwxQ7S",
+  "id" : 307014755091099648,
+  "created_at" : "Thu Feb 28 06:29:56 +0000 2013",
+  "user" : {
+    "name" : "Kirtan Patel",
+    "screen_name" : "kirtan",
+    "protected" : false,
+    "id_str" : "14577999",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
+    "id" : 14577999,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 14, 36 ],
+      "url" : "http://t.co/nbFJjwo2MV",
+      "expanded_url" : "http://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions",
+      "display_url" : "en.wikipedia.org/wiki/List_of_i\u2026"
+    } ]
+  },
+  "geo" : {
+  },
+  "id_str" : "306659534636736512",
+  "text" : "Till the end. http://t.co/nbFJjwo2MV",
+  "id" : 306659534636736512,
+  "created_at" : "Wed Feb 27 06:58:25 +0000 2013",
+  "user" : {
+    "name" : "Kirtan Patel",
+    "screen_name" : "kirtan",
+    "protected" : false,
+    "id_str" : "14577999",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
+    "id" : 14577999,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "ninakix",
+      "screen_name" : "ninakix",
+      "indices" : [ 0, 8 ],
+      "id_str" : "9366972",
+      "id" : 9366972
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "306169117470257152",
+  "geo" : {
+  },
+  "id_str" : "306175644390268928",
+  "in_reply_to_user_id" : 9366972,
+  "text" : "@ninakix I think they look quite human, considering what they are.",
+  "id" : 306175644390268928,
+  "in_reply_to_status_id" : 306169117470257152,
+  "created_at" : "Mon Feb 25 22:55:36 +0000 2013",
+  "in_reply_to_screen_name" : "ninakix",
+  "in_reply_to_user_id_str" : "9366972",
+  "user" : {
+    "name" : "Kirtan Patel",
+    "screen_name" : "kirtan",
+    "protected" : false,
+    "id_str" : "14577999",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
+    "id" : 14577999,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "ninakix",
+      "screen_name" : "ninakix",
+      "indices" : [ 0, 8 ],
+      "id_str" : "9366972",
+      "id" : 9366972
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "306157328758104064",
+  "geo" : {
+  },
+  "id_str" : "306169003695554560",
+  "in_reply_to_user_id" : 9366972,
+  "text" : "@ninakix maybe the google glass app will make up for it.",
+  "id" : 306169003695554560,
+  "in_reply_to_status_id" : 306157328758104064,
+  "created_at" : "Mon Feb 25 22:29:13 +0000 2013",
+  "in_reply_to_screen_name" : "ninakix",
+  "in_reply_to_user_id_str" : "9366972",
+  "user" : {
+    "name" : "Kirtan Patel",
+    "screen_name" : "kirtan",
+    "protected" : false,
+    "id_str" : "14577999",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
+    "id" : 14577999,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "SB",
+      "screen_name" : "5bee9",
+      "indices" : [ 0, 6 ],
+      "id_str" : "302965951",
+      "id" : 302965951
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "306100062927343616",
+  "geo" : {
+  },
+  "id_str" : "306102534303543296",
+  "in_reply_to_user_id" : 302965951,
+  "text" : "@5bee9 yep, that's how phones work.",
+  "id" : 306102534303543296,
+  "in_reply_to_status_id" : 306100062927343616,
+  "created_at" : "Mon Feb 25 18:05:05 +0000 2013",
+  "in_reply_to_screen_name" : "5bee9",
+  "in_reply_to_user_id_str" : "302965951",
+  "user" : {
+    "name" : "Kirtan Patel",
+    "screen_name" : "kirtan",
+    "protected" : false,
+    "id_str" : "14577999",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
+    "id" : 14577999,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "305920347209871360",
+  "text" : "Never empties actual trash.\nMUST EMPTY COMPUTER TRASH.",
+  "id" : 305920347209871360,
+  "created_at" : "Mon Feb 25 06:01:09 +0000 2013",
+  "user" : {
+    "name" : "Kirtan Patel",
+    "screen_name" : "kirtan",
+    "protected" : false,
+    "id_str" : "14577999",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
+    "id" : 14577999,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "305197661756211201",
+  "text" : "Guys, I'm Banksy.",
+  "id" : 305197661756211201,
+  "created_at" : "Sat Feb 23 06:09:27 +0000 2013",
+  "user" : {
+    "name" : "Kirtan Patel",
+    "screen_name" : "kirtan",
+    "protected" : false,
+    "id_str" : "14577999",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
+    "id" : 14577999,
+    "verified" : false
+  }
+}, {
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ ],
@@ -18,7 +245,7 @@ Grailbird.data.tweets_2013_02 =
     "screen_name" : "kirtan",
     "protected" : false,
     "id_str" : "14577999",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2854986249/897ebe1ccbb976b557846684aea854de_normal.jpeg",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
     "id" : 14577999,
     "verified" : false
   }
@@ -57,7 +284,7 @@ Grailbird.data.tweets_2013_02 =
     "screen_name" : "kirtan",
     "protected" : false,
     "id_str" : "14577999",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2854986249/897ebe1ccbb976b557846684aea854de_normal.jpeg",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
     "id" : 14577999,
     "verified" : false
   }
@@ -95,7 +322,7 @@ Grailbird.data.tweets_2013_02 =
     "screen_name" : "kirtan",
     "protected" : false,
     "id_str" : "14577999",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2854986249/897ebe1ccbb976b557846684aea854de_normal.jpeg",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
     "id" : 14577999,
     "verified" : false
   }
@@ -123,7 +350,7 @@ Grailbird.data.tweets_2013_02 =
     "screen_name" : "kirtan",
     "protected" : false,
     "id_str" : "14577999",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2854986249/897ebe1ccbb976b557846684aea854de_normal.jpeg",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
     "id" : 14577999,
     "verified" : false
   }
@@ -157,7 +384,7 @@ Grailbird.data.tweets_2013_02 =
     "screen_name" : "kirtan",
     "protected" : false,
     "id_str" : "14577999",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2854986249/897ebe1ccbb976b557846684aea854de_normal.jpeg",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
     "id" : 14577999,
     "verified" : false
   }
@@ -180,7 +407,7 @@ Grailbird.data.tweets_2013_02 =
     "screen_name" : "kirtan",
     "protected" : false,
     "id_str" : "14577999",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2854986249/897ebe1ccbb976b557846684aea854de_normal.jpeg",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
     "id" : 14577999,
     "verified" : false
   }
@@ -214,7 +441,7 @@ Grailbird.data.tweets_2013_02 =
     "screen_name" : "kirtan",
     "protected" : false,
     "id_str" : "14577999",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2854986249/897ebe1ccbb976b557846684aea854de_normal.jpeg",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
     "id" : 14577999,
     "verified" : false
   }
@@ -237,7 +464,7 @@ Grailbird.data.tweets_2013_02 =
     "screen_name" : "kirtan",
     "protected" : false,
     "id_str" : "14577999",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2854986249/897ebe1ccbb976b557846684aea854de_normal.jpeg",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
     "id" : 14577999,
     "verified" : false
   }
@@ -265,7 +492,7 @@ Grailbird.data.tweets_2013_02 =
     "screen_name" : "kirtan",
     "protected" : false,
     "id_str" : "14577999",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2854986249/897ebe1ccbb976b557846684aea854de_normal.jpeg",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
     "id" : 14577999,
     "verified" : false
   }
@@ -279,7 +506,7 @@ Grailbird.data.tweets_2013_02 =
       "indices" : [ 24, 44 ],
       "url" : "http://t.co/IoyKWDkT",
       "expanded_url" : "http://www.reddit.com/r/Games/comments/17pi2e/notch_earned_101_million_usd_from_minecraft_in/c87pl91",
-      "display_url" : "reddit.com/r/Games/commen…"
+      "display_url" : "reddit.com/r/Games/commen\u2026"
     } ]
   },
   "geo" : {
@@ -293,7 +520,7 @@ Grailbird.data.tweets_2013_02 =
     "screen_name" : "kirtan",
     "protected" : false,
     "id_str" : "14577999",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2854986249/897ebe1ccbb976b557846684aea854de_normal.jpeg",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
     "id" : 14577999,
     "verified" : false
   }
