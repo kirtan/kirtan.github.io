@@ -900,7 +900,7 @@ Designed by: Matt Delbridge (@matt_delbridge), Aaron Carambula (@carambula), Jos
     pages = [
       {
         shapes: [ck_logo_shape()],
-        text: '<span class="smaller"><b>Coursekit is now Lore.<br>Same Company, New Name.</b><br>This is why we made the change.</span>'
+        text: '<span class="smaller"><b>Welcome to NC13<br>Same Company, New Name.</b><br>This is why we made the change.</span>'
       }, {
         shapes: [decompose_ck()],
         text: 'Coursekit started<br>as a toolkit for<br>courses.'
