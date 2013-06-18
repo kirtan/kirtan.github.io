@@ -497,7 +497,7 @@ Designed by: Matt Delbridge (@matt_delbridge), Aaron Carambula (@carambula), Jos
                 background_image: {
                   position: logo_position,
                   size: size,
-                  image: '/microsite_static/coursekit_logo.png'
+                  image: '/microsite_static/nc13_logo.png'
                 }
               });
             } else {
