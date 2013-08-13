@@ -29,7 +29,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "kirtan",
     "protected" : false,
     "id_str" : "14577999",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000275315988/418c7205d7c0a48beedbe904d7754556_normal.jpeg",
     "id" : 14577999,
     "verified" : false
   }
@@ -63,7 +63,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "kirtan",
     "protected" : false,
     "id_str" : "14577999",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000275315988/418c7205d7c0a48beedbe904d7754556_normal.jpeg",
     "id" : 14577999,
     "verified" : false
   }
@@ -86,7 +86,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "kirtan",
     "protected" : false,
     "id_str" : "14577999",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000275315988/418c7205d7c0a48beedbe904d7754556_normal.jpeg",
     "id" : 14577999,
     "verified" : false
   }
@@ -120,7 +120,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "kirtan",
     "protected" : false,
     "id_str" : "14577999",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000275315988/418c7205d7c0a48beedbe904d7754556_normal.jpeg",
     "id" : 14577999,
     "verified" : false
   }
@@ -154,7 +154,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "kirtan",
     "protected" : false,
     "id_str" : "14577999",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687009284/bba9d3b64ddaab1f1c58d1d91aa3502d_normal.jpeg",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000275315988/418c7205d7c0a48beedbe904d7754556_normal.jpeg",
     "id" : 14577999,
     "verified" : false
   }
